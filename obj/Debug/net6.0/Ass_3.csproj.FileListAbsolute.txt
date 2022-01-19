@@ -1,0 +1,15 @@
+A:\Ass_3\bin\Debug\net6.0\Ass_3.exe
+A:\Ass_3\bin\Debug\net6.0\Ass_3.deps.json
+A:\Ass_3\bin\Debug\net6.0\Ass_3.runtimeconfig.json
+A:\Ass_3\bin\Debug\net6.0\Ass_3.dll
+A:\Ass_3\bin\Debug\net6.0\ref\Ass_3.dll
+A:\Ass_3\bin\Debug\net6.0\Ass_3.pdb
+A:\Ass_3\obj\Debug\net6.0\Ass_3.csproj.AssemblyReference.cache
+A:\Ass_3\obj\Debug\net6.0\Ass_3.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ass_3\obj\Debug\net6.0\Ass_3.AssemblyInfoInputs.cache
+A:\Ass_3\obj\Debug\net6.0\Ass_3.AssemblyInfo.cs
+A:\Ass_3\obj\Debug\net6.0\Ass_3.csproj.CoreCompileInputs.cache
+A:\Ass_3\obj\Debug\net6.0\Ass_3.dll
+A:\Ass_3\obj\Debug\net6.0\ref\Ass_3.dll
+A:\Ass_3\obj\Debug\net6.0\Ass_3.pdb
+A:\Ass_3\obj\Debug\net6.0\Ass_3.genruntimeconfig.cache
